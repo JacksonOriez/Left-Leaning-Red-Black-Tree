@@ -1,1 +1,2 @@
 # Left-Leaning-Red-Black-Tree
+This project is one that I worked on for my Data Structures and Algorithms class (CS 251 - Purdue University). This project is an implementation of the data structure known as the Left-Leaning Red-Black Tree. This class has functions such as put, get, containsKey, containsValue, findValue, firstKey, lastKey, ceilingKey, floorKey, size, isEmpty, validateTree, toString, etc.
